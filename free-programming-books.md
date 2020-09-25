@@ -1,4 +1,4 @@
-### Index
+# Index
 
 * [Ada](#ada)
 * [Agda](#agda)
